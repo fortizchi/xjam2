@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # xjam
 Joining and Arrangement of Multilayers
 =======
@@ -59,4 +58,3 @@ Running JAM
 ```
 x.jam
 ```
->>>>>>> eec1dd5 (JAM2)
